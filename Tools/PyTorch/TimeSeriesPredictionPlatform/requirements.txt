@@ -9,7 +9,7 @@ patool==1.12
 tensorboard
 optuna
 optuna-dashboard
-mlflow==1.23.1
+mlflow==3.1.0
 pandas==1.4.3
 tables
 einops==0.4.0
